@@ -11,4 +11,6 @@ public interface UserInterface {
     UserDTO createUser(CreateUserCommand cmd);
 
     UserDTO getUserById(String userId);
+
+    UserDTO updateUser();
 }
