@@ -1,0 +1,10 @@
+rootProject.name = 'hmc08'
+include 'api-client'
+findProject(':api-client')?.name = '08'
+include 'biz'
+findProject(':biz')?.name = '08-biz'
+include 'web'
+findProject(':web')?.name = '08-web'
+include 'mq'
+findProject(':mq')?.name = '08-mq'
+
