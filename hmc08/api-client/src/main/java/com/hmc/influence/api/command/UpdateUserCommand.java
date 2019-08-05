@@ -9,7 +9,7 @@ import java.util.Date;
 public class UpdateUserCommand extends CreateUserCommand {
 
     private String operatorId;
-    
+
     private Date updateTime;
 
     public String getOperatorId() {
