@@ -35,7 +35,7 @@ public class Ftest extends JFrame implements Serializable {
     }
 
     private JButton getOpenButton() {
-        if(openButton == null) {
+        if (openButton == null) {
             openButton = new JButton();
             openButton.setText("写入文件");
             openButton.addActionListener(new ActionListener() {
@@ -61,7 +61,7 @@ public class Ftest extends JFrame implements Serializable {
     }
 
     private JButton getCloseButton() {
-        if(closeButton == null) {
+        if (closeButton == null) {
             closeButton = new JButton();
             closeButton.setText("读取文件");
             closeButton.addActionListener(new ActionListener() {
@@ -72,8 +72,8 @@ public class Ftest extends JFrame implements Serializable {
                         FileReader in = new FileReader(file);
                         char byt[] = new char[1024];
                         int len = in.read(byt);
-                        if(len >0){
-                            jTextArea.setText(new String(byt,0,len));
+                        if (len > 0) {
+                            jTextArea.setText(new String(byt, 0, len));
                         }
                         in.close();
                     } catch (Exception ex) {
@@ -86,42 +86,42 @@ public class Ftest extends JFrame implements Serializable {
     }
 
     private void initialize() {
-       this.setSize(300,200);
-       this.setContentPane(getJContentPanne());
-       this.setTitle("JFrame");
+        this.setSize(300, 200);
+        this.setContentPane(getJContentPanne());
+        this.setTitle("JFrame");
     }
 
-
-    private JTextArea getJTextArea(){
-        if(jTextArea == null) {
+    private JTextArea getJTextArea() {
+        if (jTextArea == null) {
             jTextArea = new JTextArea();
         }
-        return  jTextArea;
+        return jTextArea;
     }
 
-    private JPanel getControlPanel(){
-        if(controlPannel == null) {
+    private JPanel getControlPanel() {
+        if (controlPannel == null) {
             FlowLayout flowLayout = new FlowLayout();
             flowLayout.setVgap(1);
             controlPannel = new JPanel();
             controlPannel.setLayout(flowLayout);
-            controlPannel.add(getOpenButton(),null);
-            controlPannel.add(getCloseButton(),null);
+            controlPannel.add(getOpenButton(), null);
+            controlPannel.add(getCloseButton(), null);
         }
         return controlPannel;
     }
+
     private JPanel getJContentPanne() {
-        if(jContentPane == null){
+        if (jContentPane == null) {
             jContentPane = new JPanel();
             jContentPane.setLayout(new BorderLayout());
-            jContentPane.add(getJTextArea(),BorderLayout.CENTER);
-            jContentPane.add(getControlPanel(),BorderLayout.SOUTH);
+            jContentPane.add(getJTextArea(), BorderLayout.CENTER);
+            jContentPane.add(getControlPanel(), BorderLayout.SOUTH);
         }
         return jContentPane;
     }
 
     public static void main(String[] args) {
-        Ftest thisClass =  new Ftest();
+        Ftest thisClass = new Ftest();
         thisClass.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         thisClass.setVisible(true);
     }
