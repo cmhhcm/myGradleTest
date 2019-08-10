@@ -57,6 +57,8 @@ public class TestCurrentThread {
  * which is the most recent method invocation in the sequence. The last element of the array represents the bottom of the stack,
  * which is the least recent method invocation in the sequence.
  * <p>
+ *    结论：
+ *
  * 1、实例方法中获取类名：this.getClass().getName()
  * 2、static的方法中：Thread.currentThread().getStackTrace()[1].getClassName()  .getMethodName() .getLineNumber()
  */

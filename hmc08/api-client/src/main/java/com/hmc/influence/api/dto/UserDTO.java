@@ -34,4 +34,10 @@ public class UserDTO {
     public void setGender(Gender gender) {
         this.gender = gender;
     }
+
+    public static void main(String[] args) {
+        UserDTO userDTO = new UserDTO();
+        userDTO.setGender(null);
+        System.out.println(userDTO.toString());
+    }
 }
