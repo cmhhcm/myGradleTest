@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61ffd191-e5d0-431c-b3bf-3bcb31e964e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hmc08/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/hmc08/.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/pp02/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp02/build/" />
+    <ignored path="$PROJECT_DIR$/pp02/out/" />
+    <ignored path="$PROJECT_DIR$/pp03/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp03/build/" />
+    <ignored path="$PROJECT_DIR$/pp03/out/" />
+    <ignored path="$PROJECT_DIR$/pp04/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp04/build/" />
+    <ignored path="$PROJECT_DIR$/pp04/out/" />
+    <ignored path="$PROJECT_DIR$/pp05/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp05/build/" />
+    <ignored path="$PROJECT_DIR$/pp05/out/" />
+    <ignored path="$PROJECT_DIR$/pp06/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp06/build/" />
+    <ignored path="$PROJECT_DIR$/pp06/out/" />
+    <ignored path="$PROJECT_DIR$/pp07/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp07/build/" />
+    <ignored path="$PROJECT_DIR$/pp07/out/" />
+    <ignored path="$PROJECT_DIR$/pp01/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp01/build/" />
+    <ignored path="$PROJECT_DIR$/pp01/out/" />
+    <ignored path="$PROJECT_DIR$/pp07/api-client/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp07/api-client/build/" />
+    <ignored path="$PROJECT_DIR$/pp07/api-client/out/" />
+    <ignored path="$PROJECT_DIR$/pp07/biz/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp07/biz/build/" />
+    <ignored path="$PROJECT_DIR$/pp07/biz/out/" />
+    <ignored path="$PROJECT_DIR$/pp07/common/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp07/common/build/" />
+    <ignored path="$PROJECT_DIR$/pp07/common/out/" />
+    <ignored path="$PROJECT_DIR$/hmc07-web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/hmc07-web/build/" />
+    <ignored path="$PROJECT_DIR$/hmc07-web/out/" />
+    <ignored path="$PROJECT_DIR$/api-client/.gradle/" />
+    <ignored path="$PROJECT_DIR$/api-client/build/" />
+    <ignored path="$PROJECT_DIR$/api-client/out/" />
+    <ignored path="$PROJECT_DIR$/pp07/web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp07/web/build/" />
+    <ignored path="$PROJECT_DIR$/pp07/web/out/" />
+    <ignored path="$PROJECT_DIR$/pp07/mail/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp07/mail/build/" />
+    <ignored path="$PROJECT_DIR$/pp07/mail/out/" />
+    <ignored path="$PROJECT_DIR$/pp07/mq/.gradle/" />
+    <ignored path="$PROJECT_DIR$/pp07/mq/build/" />
+    <ignored path="$PROJECT_DIR$/pp07/mq/out/" />
+    <ignored path="$PROJECT_DIR$/hmc08/.gradle/" />
+    <ignored path="$PROJECT_DIR$/hmc08/build/" />
+    <ignored path="$PROJECT_DIR$/hmc08/out/" />
+    <ignored path="$PROJECT_DIR$/hmc08/api-client/.gradle/" />
+    <ignored path="$PROJECT_DIR$/hmc08/api-client/build/" />
+    <ignored path="$PROJECT_DIR$/hmc08/api-client/out/" />
+    <ignored path="$PROJECT_DIR$/hmc08/biz/.gradle/" />
+    <ignored path="$PROJECT_DIR$/hmc08/biz/build/" />
+    <ignored path="$PROJECT_DIR$/hmc08/biz/out/" />
+    <ignored path="$PROJECT_DIR$/hmc08/web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/hmc08/web/build/" />
+    <ignored path="$PROJECT_DIR$/hmc08/web/out/" />
+    <ignored path="$PROJECT_DIR$/hmc08/mq/.gradle/" />
+    <ignored path="$PROJECT_DIR$/hmc08/mq/build/" />
+    <ignored path="$PROJECT_DIR$/hmc08/mq/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/hmc08">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/pp01">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/pp02">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/pp03">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/pp04">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/pp05">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/pp06">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/pp07">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/pp02">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/pp03">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/pp07">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/pp01">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/pp04">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/pp05">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/pp06">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/pp07/build.gradle">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/pp07/api-client">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/pp07/biz">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/hmc08">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hmc08" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hmc08" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/DataInputTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/GitIgnoreTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <folding>
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hmc08/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>junit</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pp07/settings.gradle" />
+        <option value="$PROJECT_DIR$/pp07/build.gradle" />
+        <option value="$PROJECT_DIR$/pp07/mq/src/main/java/com/hmc/api/si/UserInfoServiceInterface.java" />
+        <option value="$PROJECT_DIR$/pp07/mq/src/main/java/com/hmc/api/command/UserInfoDTO.java" />
+        <option value="$PROJECT_DIR$/pp07/mq/src/main/java/com/hmc/api/dto/UserInfoDTO.java" />
+        <option value="$PROJECT_DIR$/pp07/mq/src/main/java/com/hmc/api/si/UserServiceInterface.java" />
+        <option value="$PROJECT_DIR$/pp07/mq/src/main/java/com/hmc/api/value/Gender.java" />
+        <option value="$PROJECT_DIR$/pp07/mq/src/main/java/com/hmc/api/dto/UserDTO.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/influence/api/value/Gender.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/influence/api/command/CreateUserCommand.java" />
+        <option value="$PROJECT_DIR$/hmc08/biz/build.gradle" />
+        <option value="$PROJECT_DIR$/hmc08/biz/src/main/java/influence/biz/domain/service/application/UserService.java" />
+        <option value="$PROJECT_DIR$/hmc08/biz/src/main/java/influence/biz/domain/service/transformer/UserTransformer.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/influence/api/si/UserInterface.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/influence/api/command/UpdateUserCommand.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/HookMethodTest/AchieveClass.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/HookMethodTest/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/HookMethodTest/TestInterface.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/HookMethodTest/AbstractParent.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/HookMethodTest/SonClass.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/BigDecimalTest/BigDecimalTest.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/build.gradle" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/value/Week.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/TestUtils/TestMyUtils.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/Utils/EnumUtils.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/myThread/TestCurrentThread.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/myThread/TestStringUtils.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/Utils/StringUtils.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/influence/api/dto/UserDTO.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/FileTest.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/Ftest.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/BufferStudent.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/DataInputTest.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/GitIgnoreTest.java" />
+        <option value="$PROJECT_DIR$/hmc08/.gitignore" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/Testignore2.java" />
+        <option value="$PROJECT_DIR$/hmc08/api-client/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mypp01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hmc08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mypp01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hmc08" type="462c0819:PsiDirectoryNode" />
+              <item name="api-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mypp01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hmc08" type="462c0819:PsiDirectoryNode" />
+              <item name="api-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mypp01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hmc08" type="462c0819:PsiDirectoryNode" />
+              <item name="api-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mypp01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hmc08" type="462c0819:PsiDirectoryNode" />
+              <item name="api-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mypp01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hmc08" type="462c0819:PsiDirectoryNode" />
+              <item name="api-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mypp01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hmc08" type="462c0819:PsiDirectoryNode" />
+              <item name="api-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hmc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mypp01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hmc08" type="462c0819:PsiDirectoryNode" />
+              <item name="api-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hmc" type="462c0819:PsiDirectoryNode" />
+              <item name="IOTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mypp01" type="58d84e3e:PackageViewProjectNode" />
+              <item name="hmc02" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="mypp01" type="58d84e3e:PackageViewProjectNode" />
+              <item name="hmc03" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Testignore2">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BufferStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hmc.IOTest.BufferStudent" />
+      <module name="hmc08.08.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmc.IOTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataInputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hmc.IOTest.DataInputTest" />
+      <module name="hmc08.08.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmc.IOTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ftest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hmc.IOTest.Ftest" />
+      <module name="hmc08.08.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmc.IOTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GitIgnoreTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hmc.IOTest.GitIgnoreTest" />
+      <module name="hmc08.08.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmc.IOTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testignore2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hmc.IOTest.Testignore2" />
+      <module name="hmc08.08.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmc.IOTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/dzj/IdeaTest001/mypp01/pp07/build.gradle" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pp07/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Testignore2" />
+        <item itemvalue="Application.GitIgnoreTest" />
+        <item itemvalue="Application.DataInputTest" />
+        <item itemvalue="Application.BufferStudent" />
+        <item itemvalue="Application.Ftest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61ffd191-e5d0-431c-b3bf-3bcb31e964e6" name="Default Changelist" comment="" />
+      <created>1564644879966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564644879966</updated>
+      <workItem from="1564644881897" duration="41442000" />
+      <workItem from="1565140415996" duration="294000" />
+      <workItem from="1565141665010" duration="16165000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat:测试Thread.currentThread().getStackTrace()信息">
+      <created>1565061867975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565061867976</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestCurrentThread_getCurrentClassInfo - 2019.08.06 at 10h 13m 21s.xml">
+      <configuration name="TestCurrentThread.getCurrentClassInfo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCurrentThread_getCurrentClassInfo - 2019.08.06 at 10h 13m 50s.xml">
+      <configuration name="TestCurrentThread.getCurrentClassInfo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCurrentThread_getCurrentClassInfo - 2019.08.06 at 10h 14m 09s.xml">
+      <configuration name="TestCurrentThread.getCurrentClassInfo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCurrentThread_getCurrentClassInfo - 2019.08.06 at 10h 18m 33s.xml">
+      <configuration name="TestCurrentThread.getCurrentClassInfo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCurrentThread_getCurrentClassInfo - 2019.08.06 at 10h 19m 15s.xml">
+      <configuration name="TestCurrentThread.getCurrentClassInfo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStringUtils_testJoin - 2019.08.06 at 14h 11m 38s.xml">
+      <configuration name="TestStringUtils.testJoin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStringUtils_testJoin - 2019.08.06 at 14h 12m 55s.xml">
+      <configuration name="TestStringUtils.testJoin" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57901000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8374233" visible="true" weight="0.35121602" />
+      <window_info id="Structure" order="1" sideWeight="0.16257669" side_tool="true" weight="0.3090129" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25154895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36431226" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32961586" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.3135068" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.20886981" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8374233" visible="true" weight="0.3090129" />
+      <window_info id="Structure" order="1" sideWeight="0.16257669" side_tool="true" visible="true" weight="0.3090129" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1920694" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32961586" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.31408307" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.20886981" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat:测试Thread.currentThread().getStackTrace()信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:测试Thread.currentThread().getStackTrace()信息" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/DataInputTest.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pp07/mail/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pp07/mq/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pp07/mq/src/main/java/com/hmc/api/command/CreateUserCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pp07/mq/src/main/java/com/hmc/api/value/Gender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pp07/mq/src/main/java/com/hmc/api/dto/UserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pp07/mq/src/main/java/com/hmc/api/si/UserServiceInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/mq/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/influence/api/value/Gender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/influence/api/command/CreateUserCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/web/src/main/java/web/rest/resource/UserInfluenceResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/biz/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/biz/src/main/java/influence/biz/domain/service/application/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/biz/src/main/java/influence/biz/domain/inbound/message/listener/userCreatedMessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/biz/src/main/java/influence/biz/domain/event/listener/UserCreatedEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/biz/src/main/java/influence/biz/domain/service/transformer/UserTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/biz/src/main/java/influence/biz/domain/event/UserCreatedEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/SecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="226" column="6" selection-start-line="226" selection-start-column="6" selection-end-line="226" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/HookMethodTest/AchieveClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/HookMethodTest/TestInterface.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="284" column="43" lean-forward="true" selection-start-line="284" selection-start-column="43" selection-end-line="284" selection-end-column="43" />
+          <folding>
+            <element signature="e#41780#41781#0" expanded="true" />
+            <element signature="e#41834#41835#0" expanded="true" />
+            <element signature="e#44970#44971#0" expanded="true" />
+            <element signature="e#45051#45052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/HookMethodTest/AbstractClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/HookMethodTest/AbstractParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/HookMethodTest/SonClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/math/RoundingMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="244" column="4" selection-start-line="244" selection-start-column="4" selection-end-line="244" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/BigDecimalTest/BigDecimalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="117" column="10" selection-start-line="117" selection-start-column="10" selection-end-line="117" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="2225" column="35" selection-start-line="2225" selection-start-column="35" selection-end-line="2225" selection-end-column="35" />
+          <folding>
+            <element signature="e#15818#15819#0" expanded="true" />
+            <element signature="e#15875#15876#0" expanded="true" />
+            <element signature="e#28781#28782#0" expanded="true" />
+            <element signature="e#28819#28820#0" expanded="true" />
+            <element signature="e#29794#29795#0" expanded="true" />
+            <element signature="e#29836#29837#0" expanded="true" />
+            <element signature="e#34114#34115#0" expanded="true" />
+            <element signature="e#34170#34171#0" expanded="true" />
+            <element signature="e#34844#34845#0" expanded="true" />
+            <element signature="e#34904#34905#0" expanded="true" />
+            <element signature="e#37053#37054#0" expanded="true" />
+            <element signature="e#37100#37101#0" expanded="true" />
+            <element signature="e#42006#42007#0" expanded="true" />
+            <element signature="e#42036#42037#0" expanded="true" />
+            <element signature="e#67889#67890#0" expanded="true" />
+            <element signature="e#67953#67954#0" expanded="true" />
+            <element signature="e#90031#90032#0" expanded="true" />
+            <element signature="e#90086#90087#0" expanded="true" />
+            <element signature="e#90547#90548#0" expanded="true" />
+            <element signature="e#90608#90609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/influence/api/si/UserInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/influence/api/command/UpdateUserCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/TestUtils/TestMyUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="229" column="40" selection-start-line="229" selection-start-column="40" selection-end-line="229" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/Utils/EnumUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/myThread/TestCurrentThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="54" column="37" lean-forward="true" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/value/Week.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/influence/api/dto/UserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" selection-start-line="34" selection-end-line="35" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/myThread/TestStringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/Utils/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/FileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="670" selection-start-line="670" selection-end-line="671" />
+          <folding>
+            <element signature="e#23469#23470#0" expanded="true" />
+            <element signature="e#23522#23523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/awt/FlowLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="343" column="16" selection-start-line="343" selection-start-column="16" selection-end-line="343" selection-end-column="16" />
+          <folding>
+            <element signature="e#10113#10114#0" expanded="true" />
+            <element signature="e#10145#10146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/Ftest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/BufferStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/GitIgnoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/Testignore2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmc08/api-client/src/main/java/com/hmc/IOTest/DataInputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="$PROJECT_DIR$/pp07" />
+    <option value="gradle" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.jsoup:jsoup:1.11.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>08-biz</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

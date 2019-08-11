@@ -1,0 +1,12 @@
+rootProject.name = 'hmc07'
+includeFlat 'api-client'
+findProject(':api-client')?.name = 'pp07-api-client'
+include 'api-client'
+include 'biz'
+includeFlat 'hmc07-web'
+findProject(':hmc07-web')?.name = 'hmc07'
+include 'web'
+include 'common'
+include 'mail'
+include 'mq'
+

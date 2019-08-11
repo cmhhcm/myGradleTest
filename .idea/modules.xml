@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/08.iml" filepath="$PROJECT_DIR$/.idea/modules/08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/08-biz.iml" filepath="$PROJECT_DIR$/.idea/modules/08-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/08-mq.iml" filepath="$PROJECT_DIR$/.idea/modules/08-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/08-web.iml" filepath="$PROJECT_DIR$/.idea/modules/08-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hmc02.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hmc02.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.hmc02.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.hmc02.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc01.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc01.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc01.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc01.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc01.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc02.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc02.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc02.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc02.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc02.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc03.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc03.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc03.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc03.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc03.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc04.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc04.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc04.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc04.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc04.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc05.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc05.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc05.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc05.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc05.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc06.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc06.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc06.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc06.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc06.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc07.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-client/hmc07.api-client.iml" filepath="$PROJECT_DIR$/.idea/modules/api-client/hmc07.api-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-client/hmc07.api-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-client/hmc07.api-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-client/hmc07.api-client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-client/hmc07.api-client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/biz/hmc07.biz.iml" filepath="$PROJECT_DIR$/.idea/modules/biz/hmc07.biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/biz/hmc07.biz.main.iml" filepath="$PROJECT_DIR$/.idea/modules/biz/hmc07.biz.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/biz/hmc07.biz.test.iml" filepath="$PROJECT_DIR$/.idea/modules/biz/hmc07.biz.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/hmc07.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/hmc07.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/hmc07.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/hmc07.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/hmc07.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/hmc07.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mail/hmc07.mail.iml" filepath="$PROJECT_DIR$/.idea/modules/mail/hmc07.mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mail/hmc07.mail.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mail/hmc07.mail.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mail/hmc07.mail.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mail/hmc07.mail.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc07.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc07.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mq/hmc07.mq.iml" filepath="$PROJECT_DIR$/.idea/modules/mq/hmc07.mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mq/hmc07.mq.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mq/hmc07.mq.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mq/hmc07.mq.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mq/hmc07.mq.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/789144104/hmc07.pp07-api-client.iml" filepath="$PROJECT_DIR$/.idea/modules/789144104/hmc07.pp07-api-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc07.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc07.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/hmc07.web.iml" filepath="$PROJECT_DIR$/.idea/modules/web/hmc07.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/hmc07.web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/hmc07.web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/hmc07.web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/hmc07.web.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc08.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-client/hmc08.08.iml" filepath="$PROJECT_DIR$/.idea/modules/api-client/hmc08.08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/biz/hmc08.08-biz.iml" filepath="$PROJECT_DIR$/.idea/modules/biz/hmc08.08-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/biz/hmc08.08-biz.main.iml" filepath="$PROJECT_DIR$/.idea/modules/biz/hmc08.08-biz.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/biz/hmc08.08-biz.test.iml" filepath="$PROJECT_DIR$/.idea/modules/biz/hmc08.08-biz.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mq/hmc08.08-mq.iml" filepath="$PROJECT_DIR$/.idea/modules/mq/hmc08.08-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mq/hmc08.08-mq.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mq/hmc08.08-mq.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mq/hmc08.08-mq.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mq/hmc08.08-mq.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/hmc08.08-web.iml" filepath="$PROJECT_DIR$/.idea/modules/web/hmc08.08-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/hmc08.08-web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/hmc08.08-web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/hmc08.08-web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/hmc08.08-web.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-client/hmc08.08.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-client/hmc08.08.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-client/hmc08.08.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-client/hmc08.08.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc08.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc08.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmc08.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hmc08.test.iml" />
+    </modules>
+  </component>
+</project>
