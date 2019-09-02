@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <girl>
+        <name>Huchong Ling</name>
+        <age>25</age>
+        <cup>A</cup>
+    </girl>
+
+    <girl>
+        <name>Zizai Bai</name>
+        <age>34</age>
+        <cup>B</cup>
+    </girl>
+
+    <girl>
+        <name>Wuji Zhang</name>
+        <age>23</age>
+        <cup>C</cup>
+    </girl>
+</root>
